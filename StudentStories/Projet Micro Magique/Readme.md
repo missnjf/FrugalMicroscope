@@ -4,4 +4,4 @@ ergfhgus
 
 ![alt text](https://raw.githubusercontent.com/MakerLabCRI/FrugalMicroscope/master/StudentStories/Projet%20Micro%20Magique/images/dfh.jpg)
 
-[Contribution guidelines for this project](Functionalities/XY/CONTRIBUTING.md)
+[Contribution guidelines for this project](Functionalities/XY/)

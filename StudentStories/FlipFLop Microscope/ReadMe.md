@@ -1,1 +1,0 @@
-The Spanish Team welcomes you!

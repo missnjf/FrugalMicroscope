@@ -1,6 +1,7 @@
                                                        THE BRACHIOSCOPE!
 
-DreamTeam:
+The Dream Team:
 
-    -Léa    -Maria    -Flore    -Roxanne    -Oanella    -Salomé    -Lysandre    -Lucas
+    -@LeaHennebicq    -@mariagal    -@floregb    -@rjannim    -@ellenao    -Salomé    -@LysandreJ    -@lgoupil
 
+The goal of this project was to improve diverse functionnalities of the Turfuscope. We tried to solve the problem of the sample platform stability as well as the XY axis, the focus and came up with a system of interchangeable lenses. 

@@ -1,6 +1,6 @@
                                                        THE BRACHIOSCOPE!
 
-![alt text](https://raw.githubusercontent.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/The%20Brachioscope/Images/IMG_20180914_111721.jpg)
+![alt text](https://github.com/MakerLabCRI/FrugalMicroscope/blob/master/StudentStories/The%20Brachioscope/Images/IMG_20180914_111721.jpg)
 
 The Dream Team:
 

@@ -1,6 +1,7 @@
                                                          THE BRACHIOSCOPE!
 
-L'équipe de choc: 
+L'équipe de choc:
+
     -Léa    
     -Maria  
     -Flore  
